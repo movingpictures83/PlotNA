@@ -1,0 +1,2 @@
+Prefix plugins/PlotNA/example/
+Plugin PlotNA inputfile CD.rds outputfile na.pdf
